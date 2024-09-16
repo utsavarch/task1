@@ -5,7 +5,7 @@ export const players = [
     team: "Los Angeles Lakers",
     position: "SF",
     ppg: 25.5,
-    imageUrl: "./public/players/lebron.webp",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/lebron.webp",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const players = [
     team: "Golden State Warriors",
     position: "PG",
     ppg: 28.1,
-    imageUrl: "./public/players/steph.webp",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/steph.webp",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const players = [
     team: "Phoenix Suns",
     position: "SF",
     ppg: 29.7,
-    imageUrl: "./public/players/kd.webp",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/kd.webp",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const players = [
     team: "Milwaukee Bucks",
     position: "PF",
     ppg: 30.1,
-    imageUrl: "./public/players/giannis.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/giannis.avif",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const players = [
     team: "Dallas Mavericks",
     position: "PG",
     ppg: 30.3,
-    imageUrl: "./public/players/luka.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/luka.avif",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const players = [
     team: "Philadelphia 76ers",
     position: "C",
     ppg: 33.1,
-    imageUrl: "./public/players/embid.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/embid.avif",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const players = [
     team: "Denver Nuggets",
     position: "C",
     ppg: 25.6,
-    imageUrl: "./public/players/joker.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/joker.avif",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const players = [
     team: "Los Angeles Clippers",
     position: "SF",
     ppg: 22.5,
-    imageUrl: "./public/players/leonard.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/leonard.avif",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const players = [
     team: "Boston Celtics",
     position: "SF",
     ppg: 26.8,
-    imageUrl: "./public/players/tatum.webp",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/tatum.webp",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const players = [
     team: "Milwaukee Bucks",
     position: "PG",
     ppg: 27.9,
-    imageUrl: "./public/players/lillard.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/lillard.avif",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const players = [
     team: "Miami Heat",
     position: "SF",
     ppg: 23.3,
-    imageUrl: "./public/players/jimmy.webp",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/jimmy.webp",
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const players = [
     team: "Los Angeles Lakers",
     position: "PF",
     ppg: 22.9,
-    imageUrl: "./public/players/davis.webp",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/davis.webp",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const players = [
     team: "Dallas Mavericks",
     position: "PG",
     ppg: 27.1,
-    imageUrl: "./public/players/kyrie.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/kyrie.avif",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const players = [
     team: "Philadelphia 76ers",
     position: "SG",
     ppg: 21.7,
-    imageUrl: "./public/players/harden.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/harden.avif",
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const players = [
     team: "New Orleans Pelicans",
     position: "PF",
     ppg: 26.5,
-    imageUrl: "./public/players/zion.avif",
+    imageUrl: "https://github.com/utsavarch/task1/blob/main/public/players/zion.avif",
   },
 ];
